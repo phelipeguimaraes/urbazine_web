@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+
+@import "tailwindcss";
+
+body {
+  background-color: #F2F4F7;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  background-color: #333544;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+
+* {
+  box-sizing: border-box;
+}
